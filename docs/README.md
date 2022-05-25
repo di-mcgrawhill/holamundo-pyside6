@@ -75,4 +75,4 @@ python3 src/holamundo_pyside6/holamundo.py
 
 Nos mostrará la aplicación *holamundo_pyside6* en ejecución.
 
-![captura](img/captura.png)
+![captura](../img/captura.png)
