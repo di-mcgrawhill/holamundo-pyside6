@@ -8,7 +8,7 @@ Para ejecutar el *hola mundo*, necesitamos instalar antes Python3 y sus dependen
 
 ```bash
 $ git clone https://github.com/di-mcgrawhill/holamundo-pyside6.git
-$ cd cd holamundo-pyside6/
+$ cd holamundo-pyside6/
 ```
 
 ## Instalación de Python3
