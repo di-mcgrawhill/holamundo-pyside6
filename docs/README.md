@@ -1,3 +1,10 @@
+---
+title: "Hola mundo! Documentación"
+author: "Ferran Cunyat Pellicer"
+date: "01-06-2022"
+titlepage: "true"
+---
+
 # holamundo-pyside6
 
 Hola mundo con PySide6.
